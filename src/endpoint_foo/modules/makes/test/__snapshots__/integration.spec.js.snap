@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Makes fetches list of makes 1`] = `
+Object {
+  "data": Object {
+    "makes": Object {
+      "all": Array [
+        Object {
+          "id": "id_abarth",
+          "label": "ABARTH",
+          "slugLabel": "abarth",
+        },
+      ],
+      "top": Array [
+        Object {
+          "id": "id_audi",
+          "label": "AUDI",
+          "slugLabel": "audi",
+        },
+        Object {
+          "id": "id_bmw",
+          "label": "BMW",
+          "slugLabel": "bmw",
+        },
+      ],
+    },
+  },
+  "errors": undefined,
+  "extensions": undefined,
+  "http": Object {
+    "headers": Headers {
+      Symbol(map): Object {},
+    },
+  },
+}
+`;

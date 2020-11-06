@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Regions fetches list of regions 1`] = `
+Object {
+  "data": Object {
+    "regions": Array [
+      Object {
+        "id": "some_id_camp",
+        "value": "Campania",
+      },
+      Object {
+        "id": "some_id_lomb",
+        "value": "Lombardia",
+      },
+    ],
+  },
+  "errors": undefined,
+  "extensions": undefined,
+  "http": Object {
+    "headers": Headers {
+      Symbol(map): Object {},
+    },
+  },
+}
+`;
