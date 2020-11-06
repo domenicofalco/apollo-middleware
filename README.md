@@ -1,9 +1,9 @@
 # apollo-middleware
 
-Start with an actual endpoint
+Start with an actual endpoint:
 npm run dev
 
-Start with mockdata
+Start with mockdata:
 npm run dev:mockdata
 
 Test:
